@@ -13,9 +13,9 @@ const techStack = {
 };
 
 🔗 Connect with me:
-   - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
-   - Twitter: [@YourTwitterHandle](https://twitter.com/yourusername/)
-   - Portfolio: [Your Portfolio Website](https://www.yourportfolio.com/)
+   - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in//)
+   - Twitter: [@YourTwitterHandle](https://twitter.com//)
+   - Portfolio: [Your Portfolio Website](https:///)
 
 ⚡ Fun fact: !
 
