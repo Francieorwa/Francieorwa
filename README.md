@@ -16,11 +16,12 @@ const techGuru = {
 ## 💻 Tech Toolbox
 
 ![GitHub Status](https://img.shields.io/github/last-commit/yourusername/yourrepository?style=flat-square)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square&labelColor=61DAFB)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square&labelColor=E34F26)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat-square&labelColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat-square&labelColor=F7DF1E)
-![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white&style=flat-square&labelColor=CC342D)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
+![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
+
 
 
 
