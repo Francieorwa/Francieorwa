@@ -33,5 +33,5 @@ Ever wondered why URLs often end with '.html' or '.htm'? It's a relic from the e
    Feel free to reach out for collaboration or just to chat. Let's build awesome things together! 🚀
 </p>
 
-
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
