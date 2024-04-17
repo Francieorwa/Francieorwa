@@ -26,7 +26,7 @@
 ⚡ Fun fact: !
 
 <p align="left">
-"Ever wondered why URLs often end with '.html' or '.htm'? It's a relic from the early days of the web when servers needed file extensions to determine how to handle a request. However, modern web servers can interpret URLs without these extensions, allowing for cleaner and more user-friendly URLs. Despite this, the tradition persists, serving as a nod to the history of web development."
+Ever wondered why URLs often end with '.html' or '.htm'? It's a relic from the early days of the web when servers needed file extensions to determine how to handle a request. However, modern web servers can interpret URLs without these extensions, allowing for cleaner and more user-friendly URLs. Despite this, the tradition persists, serving as a nod to the history of web development.
 </p>
 
 <p align="left">
