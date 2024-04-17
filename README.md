@@ -19,8 +19,8 @@
 </p>
 
 🔗 Connect with me:
-   - LinkedIn: [](https://www.linkedin.com/in/francieorwa/)
-   - Twitter: [](https://twitter.com/francieorwa)
+   - LinkedIn: [Connect with me](https://www.linkedin.com/in/francieorwa/)
+   - Twitter: [Connect with me](https://twitter.com/francieorwa)
    - Portfolio: [Your Portfolio Website]()
 
 ⚡ Fun fact: !
